@@ -9,7 +9,7 @@ whatsapp-web.js,
 qrcode-terminal, 
 
 cleverbot-free
-
+__________________________________________________________________________________________________________________________
 to start run index.js and link your whatApp using the QRcode.
 
 
