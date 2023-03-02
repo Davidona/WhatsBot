@@ -1,6 +1,7 @@
 # WhatsApp bot using cleverbot AI
 
-Hi, here is a WhatsApp chat bot that uses CleverBot to answer chats.
+Hi, here is fun project that:
+a WhatsApp chat bot that uses CleverBot to answer chats.
 
 using:
 
